@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Joel Revzen  
-- 🌱 I’m currently finished the cs50 ai course...
+- 🌱 Compleated cs50 ai course.
+- Currently studying Algorithms, Part I
 
 <!---
 jrevzen/jrevzen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
